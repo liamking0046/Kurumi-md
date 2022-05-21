@@ -320,7 +320,7 @@ const hlp=`
 │❐ ${prefix}grassmsg, lovetext, coffecup,  retrolol
 │❐ ${prefix}ffcover, crossfire, galaxy, glasss, neon, beach
 \`\`\`
- 🍁 *Modified by Aku & Powered by Arus* 🍁`
+ 🍁 *Modified by Daimon(Goat) & Powered by Liam(Creator) * 🍁`
 
  const AKU = [
     {buttonId: '.info', buttonText: {displayText: '📤 Info'}, type: 1},
@@ -514,11 +514,11 @@ const inf=`❁ ════ ❃•💙 *Kurumi* 💙•❃ ════ ❁
 ❁ ═══ ❃•📕 *INFORMATION*📕•❃ ═══ ❁
 \`\`\`A simple and easy-to-use WhatsApp bot project based on Multi-Device Baileys and written in JavaScript\`\`\`
 ❁ ══════ ❃•📄 *NOTE* 📄•❃ ══════ ❁
-\`\`\`This bot is a free open source project made by the team arus and Modified by Eximinati\`\`\`
-❁ ═════ ❃•📑 *GITHUB* 📑•❃ ═════ ❁
-*_LINK:- https://github.com/Eximinati/* 
-❁ ═════ ❃•📑 *ORIGNAL SCRIPT* 📑•❃ ═════ ❁
-*_LINK:- https://github.com/Arus-Bots/Mizuhara*
+\`\`\`This bot is a free open source project made by the team Liam and Modified by Daimon\`\`\`
+❁ ═════ ❃•📑 *Whatsapp group* 📑•❃ ═════ ❁
+*_LINK:- https://chat.whatsapp.com/IoWreUggDE2HYD5cWrqG2e* 
+❁ ═════ ❃•📑 *Join support group* 📑•❃ ═════ ❁
+*_LINK:- https://chat.whatsapp.com/IoWreUggDE2HYD5cWrqG2e*
 ❁ ═══ ❃•✍🏻 *CONTRIBUTE* ✍🏻•❃ ═══ ❁
 \`\`\`Feel free to open issues regarding any problems or if you have any feature feel free to contact owner by typing =owner or =mods\`\`\` 
 `
@@ -546,28 +546,29 @@ break
 case 'mods':
 const mod=`❁ ════ ❃• *MODERATORS* •❃ ════ ❁
 #1
-💥 *Username: Aku*
-🍁 *Contact: https://wa.me/+923087880256*
+💥 *Username: Liam*
+🍁 *Contact: https://wa.me/+27833098338*
 
     ---{script owner and helper}---
 #2
-💥 *Username: Pratyush*
-🍁 *Contact: https://wa.me/+923087880256*
+💥 *Username: Daimon*
+🍁 *Contact: https://wa.me/+27823254524*
 
-💥 *Username: Arin*
-🍁 *Contact: https://wa.me/+919330880626*
+💥 *Username: Liam
+🤩 *Contact: https://wa.me/+27833098338
 
-💥 *Username: Das*
-🍁 *Contact: https://wa.me/+917003213983*
 
-💥 *Username: Death*
-🍁 *Contact: https://wa.me/+917604016334*
 
-💥 *Username: Ray*
-🍁 *Contact: https://wa.me/+919861494774*
 
-💥 *Username: Josh*
-🍁 *Contact: https://wa.me/+919774330611*
+
+
+ 
+
+
+
+
+
+
 
 ━━━━°❀•°:🤍 *Tokisaki Kurumi* 🤍:°•❀°━━━━`
 const mbut = [
@@ -587,7 +588,7 @@ let buttonMessagem = {
  break
  case 'support':
 
- m.reply('HERE IS MY MASTER SUPPORT GROUP LINK:- https://chat.whatsapp.com/FXDZOyXwdsK4vuOLPGZKpX ')
+ m.reply('HERE IS MY MASTER SUPPORT GROUP LINK:- https://chat.whatsapp.com/IoWreUggDE2HYD5cWrqG2e ')
 
  break
     case 'owner': case 'creator': {
